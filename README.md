@@ -1,6 +1,10 @@
----
-title: "README Files"
----
+# Repo Template
+
+Use this repo as a reference if you need it when setting up a new Repository.
+Make sure when creating a new repo that you enable a README.md file and follow
+the guidelines below to make a well documented file.
+
+## What is a README.md file?
 
 A README file is a document in the top level of a project repository that
 introduces and explains a project. It contains information required to
@@ -74,6 +78,14 @@ Explain how to use `docker-compose`, `kind` or other tools to allow easy local
 testing
 
 ```
+
+## Notification settings
+
+Ensure that you have enabled notifications in your Repo.
+Check out the follwoing references:
+
+ 1. Enable notification on the GitHub App. [doc](https://github.blog/2021-03-30-new-push-notifications-scheduling-releases-github-mobile/)
+ 2. Setup notifications for mentions [doc](https://docs.github.com/en/account-and-profile/managing-subscriptions-and-notifications-on-github/setting-up-notifications/configuring-notifications)
 
 ## References
 
