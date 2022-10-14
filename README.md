@@ -78,6 +78,9 @@ Explain how to use `docker-compose`, `kind` or other tools to allow easy local
 testing
 
 ```
+## GitHub Actions
+
+Extend functionality
 
 ## Notification settings
 
