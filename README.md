@@ -89,6 +89,8 @@ Check out the follwoing references:
 
 ## CODEOWNERS File
 
+This file is what authorizes who reviews any PR made to a repo. It can get more granular as needed. For example you can set up a specific approver based on a directory and ever specify file type. Read this [doc](https://docs.github.com/en/repositories/managing-your-repositorys-settings-and-features/customizing-your-repository/about-code-owners) for more info.
+
 ## References
 
 * [Make a README](https://www.makeareadme.com/#suggestions-for-a-good-readme)
