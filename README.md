@@ -87,6 +87,10 @@ Check out the follwoing references:
  1. Enable notification on the GitHub App. [doc](https://github.blog/2021-03-30-new-push-notifications-scheduling-releases-github-mobile/)
  2. Setup notifications for mentions [doc](https://docs.github.com/en/account-and-profile/managing-subscriptions-and-notifications-on-github/setting-up-notifications/configuring-notifications)
 
+## GitHub Actions
+
+These are an out-of-the-box feature that GitHub provides. Actions are very robust in that they can modify our workflow to whatever extent we code it. In our specific case we are using actions to add reviewers to each PR that is created.
+
 ## References
 
 * [Make a README](https://www.makeareadme.com/#suggestions-for-a-good-readme)
