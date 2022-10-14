@@ -2,7 +2,7 @@
 
 Use this repo as a reference if you need it when setting up a new Repository.
 Make sure when creating a new repo that you enable a README.md file and follow
-the guidelines below to make a well documented file.
+the guidelines below to make a well documented file. Read more about this with this [doc](https://docs.github.com/en/repositories/creating-and-managing-repositories/creating-a-repository-from-a-template)
 
 ## What is a README.md file?
 
