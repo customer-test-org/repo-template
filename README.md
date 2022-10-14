@@ -87,6 +87,8 @@ Check out the follwoing references:
  1. Enable notification on the GitHub App. [doc](https://github.blog/2021-03-30-new-push-notifications-scheduling-releases-github-mobile/)
  2. Setup notifications for mentions [doc](https://docs.github.com/en/account-and-profile/managing-subscriptions-and-notifications-on-github/setting-up-notifications/configuring-notifications)
 
+## GitHub Actions
+
 ## References
 
 * [Make a README](https://www.makeareadme.com/#suggestions-for-a-good-readme)
