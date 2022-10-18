@@ -8,7 +8,7 @@ the guidelines below to make a well documented file. Read more about this with t
 
 A README file is a document in the top level of a project repository that
 introduces and explains a project. It contains information required to
-understand and use the repository. Gitlab will automatically display the README
+understand and use the repository. Github will automatically display the README
 content when viewing a project in the web interface. It is typically a markdown
 file.
 
@@ -65,8 +65,7 @@ the location of additional, more detailed, documentation.
 
 ## Support
 
-Tell people where to go for help. It can be an issue tracker, email, Redmine
-project or Teams channel as examples.
+Tell people where to go for help. It can be an issue tracker, email, ticketing software or Teams channel as examples.
 
 ## Contributing
 
